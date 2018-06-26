@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <!--扫描service  交给spring容器处理-->
+    <!--todo 扫描service 包名-->
+    <context:component-scan base-package="com.it.service"/>
+
+    <!--导入数据源-->
+    <import resource="spring-datasource.xml"/>
+    <!--整合mybatis-->
+    <import resource="spring-mybatis.xml"/>
+    <!--控制事务管理-->
+    <import resource="spring-tx.xml"/>
+</beans>

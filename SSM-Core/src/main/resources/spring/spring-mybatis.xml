@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <!--把sqlSessionFactory对象整合到 spring容器中去（默认为单例）-->
+    <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+        <!--注入数据源-->
+        <property name="dataSource" ref="dataSource" />
+        <!--todo 指定mapper.xml的路径-->
+        <property name="mapperLocations" value="classpath:com/it/dao/xml/*.xml"/>
+    </bean>
+
+
+    <!--配置把mapper接口对应生成的代理对象交给spring容器管理-->
+    <bean id="mapperScanner" class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+        <!--todo  扫描mapper 包名-->
+        <property name="basePackage" value="com.it.dao"/>
+
+        <!--3.0之后可以省略-->
+        <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"/>
+    </bean>
+</beans>

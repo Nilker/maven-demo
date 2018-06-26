@@ -19,4 +19,8 @@
         id, name, age, type, ctime
     </sql>
 
+    <select id="selectUserList" resultType="com.it.entity.SysUser">
+           SELECT * FROM sys_user
+    </select>
+
 </mapper>

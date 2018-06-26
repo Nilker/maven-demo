@@ -1,6 +1,7 @@
 package com.it.service;
 
 
+import com.baomidou.mybatisplus.plugins.Page;
 import com.baomidou.mybatisplus.service.IService;
 import com.it.entity.SysUser;
 
@@ -14,4 +15,5 @@ import com.it.entity.SysUser;
  */
 public interface ISysUserService extends IService<SysUser> {
 
+    Page<SysUser> selectUserPage(Page<SysUser> pu);
 }

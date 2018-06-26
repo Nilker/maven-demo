@@ -2,7 +2,10 @@ package com.it.dao.mapper;
 
 
 import com.baomidou.mybatisplus.mapper.BaseMapper;
+import com.baomidou.mybatisplus.plugins.Page;
 import com.it.entity.SysUser;
+
+import java.util.List;
 
 /**
  * <p>
@@ -14,4 +17,5 @@ import com.it.entity.SysUser;
  */
 public interface SysUserMapper extends BaseMapper<SysUser> {
 
+    List<SysUser> selectUserList(Page<SysUser> page);
 }

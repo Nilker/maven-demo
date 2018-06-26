@@ -7,17 +7,17 @@
        http://www.springframework.org/schema/context
        http://www.springframework.org/schema/context/spring-context.xsd">
 
-    <!--&lt;!&ndash;把数据源的配置文件 装配到spring中&ndash;&gt;-->
-    <!--<context:property-placeholder location="classpath:dataSource.properties" />-->
+    <!--把数据源的配置文件 装配到spring中-->
+    <context:property-placeholder location="classpath:dataSource.properties" />
 
     <!-- 引入jdbc配置文件 -->
-    <bean id="propertyConfigurer" class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
-        <property name="locations">
-            <list>
-                <value>classpath*:dataSource.properties</value>
-            </list>
-        </property>
-    </bean>
+    <!--<bean id="propertyConfigurer" class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">-->
+        <!--<property name="locations">-->
+            <!--<list>-->
+                <!--<value>classpath*:dataSource.properties</value>-->
+            <!--</list>-->
+        <!--</property>-->
+    <!--</bean>-->
 
     <!--配置数据库连接池-->
     <bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource" init-method="init" destroy-method="close">
@@ -31,6 +31,16 @@
         <property name="maxWait" value="${ds.maxWait}"/>
         <property name="timeBetweenEvictionRunsMillis" value="${ds.timeBetweenEvictionRunsMillis}"/>
         <property name="minEvictableIdleTimeMillis" value="${ds.minEvictableIdleTimeMillis}"/>
+
+        <!-- 配置监控统计拦截的filters -->
+        <property name="filters" value="stat"/>
+    </bean>
+
+    <bean id="stat-filter" class="com.alibaba.druid.filter.stat.StatFilter">
+        <!--当你程序中存在没有参数化的sql执行时，sql统计的效果会不好-->
+        <property name="mergeSql" value="true"/>
+        <property name="slowSqlMillis" value="10000"/>
+        <property name="logSlowSql" value="true"/>
     </bean>
 
 </beans>

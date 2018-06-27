@@ -1,0 +1,1533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SSM-Web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4d852e2-08c9-4ad8-a002-032357870416" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/SSM-Parent/target/" />
+    <ignored path="$PROJECT_DIR$/SSM-Core/target/" />
+    <ignored path="$PROJECT_DIR$/SSM-Common/target/" />
+    <ignored path="$PROJECT_DIR$/SSM-Dao/target/" />
+    <ignored path="$PROJECT_DIR$/SSM-Service/target/" />
+    <ignored path="$PROJECT_DIR$/SSM-Web/target/" />
+    <ignored path="$PROJECT_DIR$/SSM-Entity/target/" />
+    <ignored path="$PROJECT_DIR$/SSM-Web2/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/project_workspace$8082.ic" NAME="8082 Coverage Results" MODIFIED="1530083642936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="spring-mvc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SSM-Core/src/main/resources/spring/spring-mvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SSM-Core/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1224">
+              <caret line="72" column="41" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring-mybatis.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SSM-Core/src/main/resources/spring/spring-mybatis.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="71" column="58" selection-start-line="71" selection-start-column="58" selection-end-line="71" selection-end-column="58" />
+              <folding>
+                <element signature="n#bean#2;n#array#0;n#property#4;n#bean#0;n#beans#0;n#!!top" />
+                <element signature="n#bean#3;n#array#0;n#property#4;n#bean#0;n#beans#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwaggerConfig.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SSM-Web/src/main/java/com/it/demo/common/SwaggerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SSM-Web/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
+              <folding>
+                <element signature="e#304#314#0" />
+                <element signature="e#1496#1524#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SysUserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SSM-Web/src/main/java/com/it/demo/controller/SysUserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SSM-Parent/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4641">
+              <caret line="273" column="30" selection-start-line="273" selection-start-column="30" selection-end-line="273" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SSM-Dao/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SSM-Web.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SSM-Web/SSM-Web.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="SSM-Parent.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SSM-Parent/SSM-Parent.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>aspectj</find>
+      <find>spring-aop</find>
+      <find>aspectjweaver</find>
+      <find>dr</find>
+      <find>context/spring-beans.xsd</find>
+      <find>plu</find>
+      <find>jun</find>
+      <find>SSM-Entity</find>
+      <find>ehcache</find>
+      <find>log</find>
+      <find>slf</find>
+      <find>aop</find>
+      <find>wag</find>
+      <find>swaggerr</find>
+      <find>demo</find>
+      <find>swagg</find>
+      <find>fasterfaster</find>
+      <find>faster</find>
+      <find>objectMapperConfigurer</find>
+      <find>jackson</find>
+      <find>s</find>
+      <find>web</find>
+      <find>swa</find>
+      <find>swagger</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\lihl\Desktop\project-workspace\SSM-Parent</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../java/git/mybatis-plus" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SSM-Core/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/SSM-Dao/src/test/java/com/it/dao/generator/general.java" />
+        <option value="$PROJECT_DIR$/SSM-Dao/src/test/java/com/it/dao/generator/lhlGeneratorServiceEntity01.java" />
+        <option value="$PROJECT_DIR$/SSM-Entity/src/main/java/com/it/entity/SysUser.java" />
+        <option value="$PROJECT_DIR$/SSM-Core/src/main/resources/spring/spring-context.xml" />
+        <option value="$PROJECT_DIR$/SSM-Core/src/main/resources/spring/spring-tx.xml" />
+        <option value="$PROJECT_DIR$/SSM-Dao/pom.xml" />
+        <option value="$PROJECT_DIR$/SSM-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/SSM-Core/src/main/resources/dataSource.properties" />
+        <option value="$PROJECT_DIR$/SSM-Common/src/main/java/com/it/common/MyMetaObjectHandler.java" />
+        <option value="$PROJECT_DIR$/SSM-Entity/src/main/java/com/it/entity/MyMetaObjectHandler.java" />
+        <option value="$PROJECT_DIR$/SSM-Entity/pom.xml" />
+        <option value="$PROJECT_DIR$/SSM-Service/src/main/java/com/it/service/ISysUserService.java" />
+        <option value="$PROJECT_DIR$/SSM-Service/src/main/java/com/it/service/impl/SysUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/SSM-Dao/src/main/java/com/it/dao/mapper/SysUserMapper.java" />
+        <option value="$PROJECT_DIR$/SSM-Dao/src/main/java/com/it/dao/xml/SysUserMapper.xml" />
+        <option value="$PROJECT_DIR$/SSM-Core/src/main/resources/spring/spring-datasource.xml" />
+        <option value="$PROJECT_DIR$/SSM-Core/src/main/java/com/it/core/MyMetaObjectHandler.java" />
+        <option value="$PROJECT_DIR$/SSM-Web/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/SSM-Common/pom.xml" />
+        <option value="$PROJECT_DIR$/SSM-Web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/SSM-Web2/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/SSM-Web2/pom.xml" />
+        <option value="$PROJECT_DIR$/SSM-Core/src/main/java/com/it/core/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/SSM-Web/pom.xml" />
+        <option value="$PROJECT_DIR$/SSM-Core/pom.xml" />
+        <option value="$PROJECT_DIR$/SSM-Web/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/SSM-Core/src/main/resources/spring/spring-mybatis.xml" />
+        <option value="$PROJECT_DIR$/SSM-Core/src/main/resources/spring/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/SSM-Parent/pom.xml" />
+        <option value="$PROJECT_DIR$/SSM-Web/src/main/java/com/it/demo/common/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/SSM-Web/src/main/java/com/it/demo/controller/SysUserController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\java\repository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="showVersions" value="true" />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="661" />
+    <option name="y" value="87" />
+    <option name="width" value="993" />
+    <option name="height" value="724" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM-Web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSM-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lihl\Desktop\project-workspace\SSM-Web\src\main\webapp" />
+      <recent name="C:\Users\lihl\Desktop\project-workspace\SSM-Web\src\main\java\com\it\demo\controller" />
+      <recent name="C:\Users\lihl\Desktop\project-workspace\SSM-Dao\src\main\java\com\it\dao\xml" />
+      <recent name="C:\Users\lihl\Desktop\project-workspace\SSM-Dao\src\main\java\com\it\dao\mapper" />
+      <recent name="C:\Users\lihl\Desktop\project-workspace\SSM-Entity\src\main\java\com\it\entity" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.it.demo.common" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lihl\Desktop\project-workspace\SSM-Web\src\main\webapp" />
+      <recent name="C:\Users\lihl\Desktop\project-workspace\SSM-Web\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.8012">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="lhlGeneratorServiceEntity01.generateCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SSM-Dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.dao.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.it.dao.generator" />
+      <option name="MAIN_CLASS_NAME" value="com.it.dao.generator.lhlGeneratorServiceEntity01" />
+      <option name="METHOD_NAME" value="generateCode" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="8012" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.29" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="update-resources" />
+      <deployment>
+        <artifact name="SSM-Web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_project-workspace_3" />
+        <option name="HTTP_PORT" value="8012" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54847" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SSM-Web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.8012" />
+      <item itemvalue="JUnit.lhlGeneratorServiceEntity01.generateCode" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.lhlGeneratorServiceEntity01.generateCode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4d852e2-08c9-4ad8-a002-032357870416" name="Default" comment="" />
+      <created>1529977263234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529977263234</updated>
+      <workItem from="1529977266776" duration="24196000" />
+      <workItem from="1530061064605" duration="4853000" />
+      <workItem from="1530067210980" duration="3614000" />
+      <workItem from="1530071119076" duration="18580000" />
+      <workItem from="1530093612426" duration="109000" />
+    </task>
+    <task id="LOCAL-00001" summary="整合 mybatis-plus">
+      <created>1530005455089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530005455089</updated>
+    </task>
+    <task id="LOCAL-00002" summary="监控问题">
+      <created>1530006230984</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1530006230984</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改日志jar问题，添加index">
+      <created>1530068786172</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1530068786172</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加swagger2 接口管理">
+      <created>1530092814216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1530092814218</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="lhlGeneratorServiceEntity01_generateCode - 2018.06.26 at 15h 53m 25s.xml">
+      <configuration name="lhlGeneratorServiceEntity01.generateCode" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="51352000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32914925" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.26957637" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32991013" />
+      <window_info id="Structure" order="1" sideWeight="0.33054394" side_tool="true" weight="0.21630295" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24967907" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.73221755" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.36122733" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32914925" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.62343097" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32914925" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" x="7" y="155" width="303" height="717" id="Project" order="0" sideWeight="0.66945606" visible="true" weight="0.1970475" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32914925" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32914925" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32991013" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="true" />
+    <MESSAGE value="整合 mybatis-plus" />
+    <MESSAGE value="监控问题" />
+    <MESSAGE value="修改日志jar问题，添加index" />
+    <MESSAGE value="添加swagger2 接口管理" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加swagger2 接口管理" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SSM-Web/src/main/java/com/it/demo/controller/SysUserController.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SSM-Web/src/main/java/com/it/demo/controller/SysUserController.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SSM-Web/src/main/java/com/it/demo/controller/SysUserController.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SSM-Dao/src/test/java/com/it/dao/generator/lhlGeneratorServiceEntity01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="60" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Core/src/main/resources/dataSource.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="49" selection-start-column="49" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/logging/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="490" column="25" selection-start-line="490" selection-start-column="25" selection-end-line="490" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Entity/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Service/src/main/java/com/it/service/ISysUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Service/src/main/java/com/it/service/impl/SysUserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Dao/src/main/java/com/it/dao/mapper/SysUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Dao/src/main/java/com/it/dao/xml/SysUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.it.demo:SSM-Parent:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.it.demo:SSM-Parent:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.it.demo:SSM-Parent:1.0-SNAPSHOT</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-83.0" y="-78.0" />
+          <SelectedNodes>
+            <node>com.it.demo:SSM-Parent:1.0-SNAPSHOT</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.it.demo:SSM-Web:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.it.demo:SSM-Web:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="1118.3437499999998" y="890.0">com.it.demo:SSM-Web:1.0-SNAPSHOT</node>
+            <node x="923.0937499999998" y="811.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT</node>
+            <node x="937.0937499999998" y="732.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT</node>
+            <node x="592.0104166666665" y="653.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT</node>
+            <node x="500.74999999999994" y="534.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.it.demo:SSM-Common:jar:1.0-SNAPSHOT</node>
+            <node x="518.25" y="445.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.it.demo:SSM-Common:jar:1.0-SNAPSHOT/log4j:log4j:jar:1.2.17</node>
+            <node x="747.380462398374" y="534.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE</node>
+            <node x="670.7604166666665" y="287.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-aop:jar:4.3.8.RELEASE</node>
+            <node x="525.1354166666665" y="188.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-beans:jar:4.3.8.RELEASE</node>
+            <node x="759.7604166666665" y="366.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-context:jar:4.3.8.RELEASE</node>
+            <node x="702.5604674796748" y="79.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-core:jar:4.3.8.RELEASE</node>
+            <node x="840.7604166666665" y="287.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-expression:jar:4.3.8.RELEASE</node>
+            <node x="615.6354166666665" y="445.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-web:jar:4.3.8.RELEASE</node>
+            <node x="384.74999999999994" y="287.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-tx:jar:4.3.8.RELEASE</node>
+            <node x="435.74999999999994" y="366.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-jdbc:jar:4.3.8.RELEASE</node>
+            <node x="1203.425050813008" y="534.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.aspectj:aspectjweaver:jar:1.8.10</node>
+            <node x="292.78963414634137" y="0.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/commons-logging:commons-logging:jar:1.2</node>
+            <node x="1083.7604166666665" y="534.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/junit:junit:jar:4.12</node>
+            <node x="1055.7604166666665" y="445.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="1012.7604166666665" y="366.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.mybatis:mybatis-spring:jar:1.3.2</node>
+            <node x="260.99999999999994" y="534.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.mybatis:mybatis-ehcache:jar:1.0.0</node>
+            <node x="271.49999999999994" y="445.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.mybatis:mybatis-ehcache:jar:1.0.0/net.sf.ehcache:ehcache-core:jar:2.0.0</node>
+            <node x="281.99999999999994" y="366.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.mybatis:mybatis-ehcache:jar:1.0.0/net.sf.ehcache:ehcache-core:jar:2.0.0/org.slf4j:slf4j-api:jar:1.5.8</node>
+            <node x="660.380462398374" y="534.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.alibaba:druid:jar:1.1.9</node>
+            <node x="1366.737550813008" y="534.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3</node>
+            <node x="1327.4062499999998" y="366.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3/com.baomidou:mybatis-plus-support:jar:2.3</node>
+            <node x="1199.7812499999998" y="445.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3/com.baomidou:mybatis-plus-core:jar:2.3</node>
+            <node x="1205.4062499999998" y="366.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3/com.baomidou:mybatis-plus-core:jar:2.3/com.github.jsqlparser:jsqlparser:jar:1.1</node>
+            <node x="1404.5708841463413" y="445.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3/com.baomidou:mybatis-plus-generate:jar:2.3</node>
+            <node x="50.5" y="534.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.apache.velocity:velocity-engine-core:jar:2.0</node>
+            <node x="10.5" y="445.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.apache.velocity:velocity-engine-core:jar:2.0/org.apache.commons:commons-lang3:jar:3.5</node>
+            <node x="153.5" y="445.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.apache.velocity:velocity-engine-core:jar:2.0/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="1402.737550813008" y="653.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Entity:jar:1.0-SNAPSHOT</node>
+            <node x="1536.0312499999998" y="366.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/org.mybatis:mybatis:jar:3.4.5</node>
+            <node x="400.01041666666646" y="653.0">com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/mysql:mysql-connector-java:jar:5.1.38</node>
+            <node x="1052.0937499999998" y="811.0">javax.servlet:servlet-api:jar:3.0-alpha-1</node>
+            <node x="1261.0937499999998" y="811.0">javax.servlet.jsp:jsp-api:jar:2.2.1-b03</node>
+            <node x="1181.0937499999998" y="811.0">javax.servlet:jstl:jar:1.2</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/commons-logging:commons-logging:jar:1.2">
+              <point x="-40.33333333333326" y="-14.5" />
+              <point x="595.6770833333333" y="633.0" />
+              <point x="0.0" y="633.0" />
+              <point x="0.0" y="54.0" />
+              <point x="327.03963414634137" y="54.0" />
+              <point x="-34.25" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Web:1.0-SNAPSHOT" target="javax.servlet:servlet-api:jar:3.0-alpha-1">
+              <point x="-10.125" y="-14.5" />
+              <point x="1148.7187499999998" y="860.0" />
+              <point x="1106.5937499999998" y="860.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE">
+              <point x="11.0" y="-14.5" />
+              <point x="647.0104166666665" y="593.0" />
+              <point x="808.880462398374" y="593.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3/com.baomidou:mybatis-plus-support:jar:2.3">
+              <point x="0.0" y="-14.5" />
+              <point x="1424.737550813008" y="514.0" />
+              <point x="1394.0708841463413" y="514.0" />
+              <point x="1394.0708841463413" y="415.0" />
+              <point x="1413.4062499999998" y="415.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3/com.baomidou:mybatis-plus-core:jar:2.3" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/org.mybatis:mybatis:jar:3.4.5">
+              <point x="56.625" y="-14.5" />
+              <point x="1331.9062499999998" y="425.0" />
+              <point x="1556.2812499999998" y="425.0" />
+              <point x="-20.25" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-aop:jar:4.3.8.RELEASE">
+              <point x="-10.25" y="-14.5" />
+              <point x="798.630462398374" y="494.0" />
+              <point x="749.2604166666665" y="494.0" />
+              <point x="749.2604166666665" y="341.0" />
+              <point x="721.7604166666665" y="341.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-web:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-core:jar:4.3.8.RELEASE">
+              <point x="-12.75" y="-14.5" />
+              <point x="653.8854166666665" y="425.0" />
+              <point x="660.2604166666665" y="425.0" />
+              <point x="660.2604166666665" y="158.0" />
+              <point x="750.2479674796748" y="158.0" />
+              <point x="-6.8125" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.aspectj:aspectjweaver:jar:1.8.10">
+              <point x="33.0" y="-14.5" />
+              <point x="669.0104166666665" y="623.0" />
+              <point x="1264.925050813008" y="623.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Web:1.0-SNAPSHOT" target="javax.servlet.jsp:jsp-api:jar:2.2.1-b03">
+              <point x="30.375" y="-14.5" />
+              <point x="1189.2187499999998" y="870.0" />
+              <point x="1301.5937499999998" y="870.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-context:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-aop:jar:4.3.8.RELEASE">
+              <point x="-48.75" y="-14.5" />
+              <point x="776.0104166666665" y="341.0" />
+              <point x="755.7604166666665" y="341.0" />
+              <point x="34.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-jdbc:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-core:jar:4.3.8.RELEASE">
+              <point x="0.0" y="-14.5" />
+              <point x="490.24999999999994" y="138.0" />
+              <point x="722.9979674796748" y="138.0" />
+              <point x="-34.0625" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.it.demo:SSM-Common:jar:1.0-SNAPSHOT">
+              <point x="-3.6666666666666288" y="-14.5" />
+              <point x="632.3437499999998" y="583.0" />
+              <point x="551.75" y="583.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-tx:jar:4.3.8.RELEASE">
+              <point x="-18.33333333333337" y="-14.5" />
+              <point x="617.677083333333" y="603.0" />
+              <point x="408.49999999999994" y="603.0" />
+              <point x="-23.75" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3/com.baomidou:mybatis-plus-generate:jar:2.3" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3/com.baomidou:mybatis-plus-support:jar:2.3">
+              <point x="0.0" y="-14.5" />
+              <point x="1494.0708841463413" y="415.0" />
+              <point x="1470.739583333333" y="415.0" />
+              <point x="57.33333333333326" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-beans:jar:4.3.8.RELEASE">
+              <point x="-51.25" y="-14.5" />
+              <point x="757.630462398374" y="514.0" />
+              <point x="600.9687499999998" y="514.0" />
+              <point x="600.9687499999998" y="267.0" />
+              <point x="573.4687499999998" y="267.0" />
+              <point x="-9.666666666666686" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3/com.baomidou:mybatis-plus-core:jar:2.3" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3/com.baomidou:mybatis-plus-support:jar:2.3">
+              <point x="18.875" y="-14.5" />
+              <point x="1294.1562499999998" y="415.0" />
+              <point x="1356.0729166666665" y="415.0" />
+              <point x="-57.33333333333326" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT">
+              <point x="-10.125" y="-14.5" />
+              <point x="967.4687499999998" y="702.0" />
+              <point x="636.0104166666665" y="702.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/junit:junit:jar:4.12">
+              <point x="25.66666666666663" y="-14.5" />
+              <point x="661.677083333333" y="613.0" />
+              <point x="1117.2604166666665" y="613.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Web:1.0-SNAPSHOT" target="javax.servlet:jstl:jar:1.2">
+              <point x="10.125" y="-14.5" />
+              <point x="1168.9687499999998" y="860.0" />
+              <point x="1211.0937499999998" y="860.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-expression:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-core:jar:4.3.8.RELEASE">
+              <point x="0.0" y="-14.5" />
+              <point x="916.2604166666665" y="158.0" />
+              <point x="791.1229674796748" y="158.0" />
+              <point x="34.0625" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-context:jar:4.3.8.RELEASE">
+              <point x="10.25" y="-14.5" />
+              <point x="819.130462398374" y="494.0" />
+              <point x="857.2604166666665" y="494.0" />
+              <point x="32.5" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-tx:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-core:jar:4.3.8.RELEASE">
+              <point x="-23.75" y="-14.5" />
+              <point x="408.49999999999994" y="128.0" />
+              <point x="709.3729674796748" y="128.0" />
+              <point x="-47.6875" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-context:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-beans:jar:4.3.8.RELEASE">
+              <point x="-16.25" y="-14.5" />
+              <point x="808.5104166666665" y="341.0" />
+              <point x="819.2604166666665" y="341.0" />
+              <point x="819.2604166666665" y="237.0" />
+              <point x="631.4687499999998" y="237.0" />
+              <point x="48.333333333333314" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Web:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT">
+              <point x="-30.375" y="-14.5" />
+              <point x="1128.4687499999998" y="870.0" />
+              <point x="977.5937499999998" y="870.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.apache.velocity:velocity-engine-core:jar:2.0">
+              <point x="-33.0" y="-14.5" />
+              <point x="603.0104166666665" y="623.0" />
+              <point x="136.5" y="623.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-core:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/commons-logging:commons-logging:jar:1.2">
+              <point x="0.0" y="-14.5" />
+              <point x="757.0604674796748" y="54.0" />
+              <point x="395.53963414634137" y="54.0" />
+              <point x="34.25" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3/com.baomidou:mybatis-plus-core:jar:2.3">
+              <point x="-38.66666666666674" y="-14.5" />
+              <point x="1386.0708841463413" y="514.0" />
+              <point x="1275.2812499999998" y="514.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-context:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-core:jar:4.3.8.RELEASE">
+              <point x="16.25" y="-14.5" />
+              <point x="841.0104166666665" y="341.0" />
+              <point x="830.2604166666665" y="341.0" />
+              <point x="830.2604166666665" y="168.0" />
+              <point x="777.4979674796748" y="168.0" />
+              <point x="20.4375" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-web:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-aop:jar:4.3.8.RELEASE">
+              <point x="12.75" y="-14.5" />
+              <point x="680.3854166666665" y="341.0" />
+              <point x="687.7604166666665" y="341.0" />
+              <point x="-34.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-aop:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-core:jar:4.3.8.RELEASE">
+              <point x="25.5" y="-14.5" />
+              <point x="747.2604166666665" y="168.0" />
+              <point x="763.8729674796748" y="168.0" />
+              <point x="6.8125" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.apache.velocity:velocity-engine-core:jar:2.0" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.apache.velocity:velocity-engine-core:jar:2.0/org.apache.commons:commons-lang3:jar:3.5">
+              <point x="-43.0" y="-14.5" />
+              <point x="93.5" y="514.0" />
+              <point x="72.0" y="514.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-jdbc:jar:4.3.8.RELEASE">
+              <point x="-11.0" y="-14.5" />
+              <point x="625.0104166666665" y="593.0" />
+              <point x="490.24999999999994" y="593.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.mybatis:mybatis-ehcache:jar:1.0.0/net.sf.ehcache:ehcache-core:jar:2.0.0" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.mybatis:mybatis-ehcache:jar:1.0.0/net.sf.ehcache:ehcache-core:jar:2.0.0/org.slf4j:slf4j-api:jar:1.5.8">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/org.mybatis:mybatis:jar:3.4.5">
+              <point x="30.375" y="-14.5" />
+              <point x="1007.9687499999998" y="712.0" />
+              <point x="1596.7812499999998" y="712.0" />
+              <point x="20.25" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-jdbc:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-tx:jar:4.3.8.RELEASE">
+              <point x="-36.33333333333334" y="-14.5" />
+              <point x="453.91666666666663" y="341.0" />
+              <point x="455.99999999999994" y="341.0" />
+              <point x="23.75" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-web:jar:4.3.8.RELEASE">
+              <point x="-30.75" y="-14.5" />
+              <point x="778.130462398374" y="504.0" />
+              <point x="666.6354166666665" y="504.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-beans:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-core:jar:4.3.8.RELEASE">
+              <point x="0.0" y="-14.5" />
+              <point x="583.1354166666665" y="148.0" />
+              <point x="736.6229674796748" y="148.0" />
+              <point x="-20.4375" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-jdbc:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-beans:jar:4.3.8.RELEASE">
+              <point x="36.333333333333314" y="-14.5" />
+              <point x="526.5833333333333" y="341.0" />
+              <point x="543.0" y="341.0" />
+              <point x="543.0" y="267.0" />
+              <point x="554.1354166666665" y="267.0" />
+              <point x="-29.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3/com.baomidou:mybatis-plus-generate:jar:2.3">
+              <point x="38.66666666666674" y="-14.5" />
+              <point x="1463.4042174796748" y="514.0" />
+              <point x="1494.0708841463413" y="514.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-aop:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-beans:jar:4.3.8.RELEASE">
+              <point x="-25.5" y="-14.5" />
+              <point x="696.2604166666665" y="247.0" />
+              <point x="612.1354166666665" y="247.0" />
+              <point x="29.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Entity:jar:1.0-SNAPSHOT">
+              <point x="10.125" y="-14.5" />
+              <point x="987.7187499999998" y="702.0" />
+              <point x="1453.737550813008" y="702.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/junit:junit:jar:4.12" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-context:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-expression:jar:4.3.8.RELEASE">
+              <point x="48.75" y="-14.5" />
+              <point x="873.5104166666665" y="341.0" />
+              <point x="878.5104166666665" y="341.0" />
+              <point x="-37.75" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/mysql:mysql-connector-java:jar:5.1.38">
+              <point x="-30.375" y="-14.5" />
+              <point x="947.2187499999998" y="712.0" />
+              <point x="486.01041666666646" y="712.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3/com.baomidou:mybatis-plus-core:jar:2.3" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3/com.baomidou:mybatis-plus-core:jar:2.3/com.github.jsqlparser:jsqlparser:jar:1.1">
+              <point x="-18.875" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.apache.velocity:velocity-engine-core:jar:2.0" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.apache.velocity:velocity-engine-core:jar:2.0/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="43.0" y="-14.5" />
+              <point x="179.5" y="514.0" />
+              <point x="201.0" y="514.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-web:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-beans:jar:4.3.8.RELEASE">
+              <point x="-38.25" y="-14.5" />
+              <point x="628.3854166666665" y="425.0" />
+              <point x="611.9687499999998" y="425.0" />
+              <point x="611.9687499999998" y="257.0" />
+              <point x="592.8020833333331" y="257.0" />
+              <point x="9.666666666666686" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-expression:jar:4.3.8.RELEASE">
+              <point x="30.75" y="-14.5" />
+              <point x="839.630462398374" y="504.0" />
+              <point x="954.0104166666665" y="504.0" />
+              <point x="37.75" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-tx:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-beans:jar:4.3.8.RELEASE">
+              <point x="23.75" y="-14.5" />
+              <point x="455.99999999999994" y="267.0" />
+              <point x="534.8020833333331" y="267.0" />
+              <point x="-48.333333333333314" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3">
+              <point x="40.33333333333337" y="-14.5" />
+              <point x="676.3437499999998" y="633.0" />
+              <point x="1395.737550813008" y="633.0" />
+              <point x="-29.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.mybatis:mybatis-ehcache:jar:1.0.0">
+              <point x="-25.66666666666663" y="-14.5" />
+              <point x="610.3437499999998" y="613.0" />
+              <point x="329.49999999999994" y="613.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3/com.baomidou:mybatis-plus-core:jar:2.3" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.mybatis:mybatis-spring:jar:1.3.2">
+              <point x="-56.625" y="-14.5" />
+              <point x="1218.6562499999998" y="425.0" />
+              <point x="1110.2604166666665" y="425.0" />
+              <point x="32.5" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-web:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-context:jar:4.3.8.RELEASE">
+              <point x="38.25" y="-14.5" />
+              <point x="704.8854166666665" y="425.0" />
+              <point x="792.2604166666665" y="425.0" />
+              <point x="-32.5" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.alibaba:druid:jar:1.1.9">
+              <point x="3.6666666666666288" y="-14.5" />
+              <point x="639.677083333333" y="583.0" />
+              <point x="693.880462398374" y="583.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.mybatis:mybatis-ehcache:jar:1.0.0" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.mybatis:mybatis-ehcache:jar:1.0.0/net.sf.ehcache:ehcache-core:jar:2.0.0">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.mybatis:mybatis-spring:jar:1.3.2">
+              <point x="18.33333333333337" y="-14.5" />
+              <point x="654.3437499999998" y="603.0" />
+              <point x="1045.2604166666665" y="603.0" />
+              <point x="-32.5" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.it.demo:SSM-Common:jar:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.it.demo:SSM-Common:jar:1.0-SNAPSHOT/log4j:log4j:jar:1.2.17">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.8.RELEASE/org.springframework:spring-core:jar:4.3.8.RELEASE">
+              <point x="51.25" y="-14.5" />
+              <point x="860.130462398374" y="514.0" />
+              <point x="1002.2604166666665" y="514.0" />
+              <point x="1002.2604166666665" y="148.0" />
+              <point x="804.7479674796748" y="148.0" />
+              <point x="47.6875" y="14.5" />
+            </edge>
+            <edge source="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Entity:jar:1.0-SNAPSHOT" target="com.it.demo:SSM-Service:jar:1.0-SNAPSHOT/com.it.demo:SSM-Dao:jar:1.0-SNAPSHOT/com.it.demo:SSM-Core:jar:1.0-SNAPSHOT/com.baomidou:mybatis-plus:jar:2.3">
+              <point x="0.0" y="-14.5" />
+              <point x="29.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9516431924882627" x="342.0" y="558.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Core/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="91" selection-start-line="22" selection-start-column="91" selection-end-line="22" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Web/src/main/webapp/index.html" />
+    <entry file="jar://D:/java/repository/io/springfox/springfox-swagger-ui/2.7.0/springfox-swagger-ui-2.7.0.jar!/META-INF/resources/swagger-ui.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/repository/org/slf4j/slf4j-simple/1.7.7/slf4j-simple-1.7.7.jar!/org/slf4j/impl/SimpleLogger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="338" selection-start-line="338" selection-end-line="338" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/repository/org/mybatis/mybatis/3.4.5/mybatis-3.4.5.jar!/org/apache/ibatis/executor/statement/BaseStatementHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/repository/org/mybatis/mybatis/3.4.5/mybatis-3.4.5.jar!/org/apache/ibatis/executor/statement/PreparedStatementHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/repository/org/mybatis/mybatis/3.4.5/mybatis-3.4.5.jar!/org/apache/ibatis/executor/statement/RoutingStatementHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/repository/org/mybatis/mybatis/3.4.5/mybatis-3.4.5.jar!/org/apache/ibatis/executor/SimpleExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Core/src/main/resources/spring/spring-tx.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Core/src/main/resources/spring/spring-datasource.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Core/src/main/resources/spring/spring-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Web2/src/main/webapp/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/SSM-Web2/SSM-Web2.iml" />
+    <entry file="file://$PROJECT_DIR$/SSM-Web2/demo.iml" />
+    <entry file="file://$PROJECT_DIR$/SSM-Web2/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/SSM-Core/src/main/java/com/it/core/SwaggerConfig.java" />
+    <entry file="jar://D:/java/repository/org/springframework/spring-webmvc/4.3.8.RELEASE/spring-webmvc-4.3.8.RELEASE.jar!/org/springframework/web/servlet/config/annotation/EnableWebMvc.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/repository/io/springfox/springfox-spring-web/2.7.0/springfox-spring-web-2.7.0-sources.jar!/springfox/documentation/spring/web/SpringfoxWebMvcConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="77" column="39" selection-start-line="77" selection-start-column="39" selection-end-line="77" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Web/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/repository/com/baomidou/mybatis-plus-core/2.3/mybatis-plus-core-2.3.jar!/com/baomidou/mybatisplus/MybatisDefaultParameterHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/repository/com/baomidou/mybatis-plus-core/2.3/mybatis-plus-core-2.3.jar!/com/baomidou/mybatisplus/MybatisXMLLanguageDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/repository/org/mybatis/mybatis/3.4.5/mybatis-3.4.5.jar!/org/apache/ibatis/session/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="518" selection-start-line="518" selection-end-line="518" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Core/src/main/java/com/it/core/MyMetaObjectHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/repository/com/baomidou/mybatis-plus-support/2.3/mybatis-plus-support-2.3.jar!/com/baomidou/mybatisplus/activerecord/Model.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Entity/src/main/java/com/it/entity/SysUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-697">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/repository/org/springframework/spring-web/4.3.8.RELEASE/spring-web-4.3.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Parent/SSM-Parent.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/java/repository/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Web/SSM-Web.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="41" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4641">
+          <caret line="273" column="30" selection-start-line="273" selection-start-column="30" selection-end-line="273" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="e#304#314#0" />
+            <element signature="e#1496#1524#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Core/src/main/resources/spring/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="71" column="58" selection-start-line="71" selection-start-column="58" selection-end-line="71" selection-end-column="58" />
+          <folding>
+            <element signature="n#bean#2;n#array#0;n#property#4;n#bean#0;n#beans#0;n#!!top" />
+            <element signature="n#bean#3;n#array#0;n#property#4;n#bean#0;n#beans#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Core/src/main/resources/spring/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Web/src/main/java/com/it/demo/controller/SysUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSM-Web/src/main/java/com/it/demo/common/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SSM-Web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (SSM-Web)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|SSM-Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:druid:1.1.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

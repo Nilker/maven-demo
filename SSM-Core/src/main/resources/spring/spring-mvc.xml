@@ -17,6 +17,13 @@
     <!--开启springMVC框架的 注解方式-->
     <mvc:annotation-driven/>
 
+    <mvc:default-servlet-handler />
+    <!--&lt;!&ndash; 配置Swagger相关静态资源 &ndash;&gt;-->
+    <!--&lt;!&ndash;<mvc:resources location="classpath:/META-INF/resources/" mapping="swagger-ui.html"/>&ndash;&gt;-->
+    <!--&lt;!&ndash;<mvc:resources location="classpath:/META-INF/resources/webjars/" mapping="/webjars/**"/>&ndash;&gt;-->
+    <!--&lt;!&ndash; 添加扫描配置类 &ndash;&gt;-->
+    <bean class="com.it.demo.common.SwaggerConfig" />
+
     <!--配置视图解析器-->
     <bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="prefix" value="/WEB-INF/"/>

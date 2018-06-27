@@ -77,7 +77,7 @@
     </bean>
 
     <!-- 配置oracle主键Sequence， 其他类型数据库，请配置相应的类型-->
-    <bean id="keyGenerator" class="com.baomidou.mybatisplus.incrementer.OracleKeyGenerator"/>
+    <bean id="keyGenerator" class="com.baomidou.mybatisplus.incrementer.DB2KeyGenerator"/>
 
     <!-- 自定义处理器 -->
     <bean id="myMetaObjectHandler" class="com.it.core.MyMetaObjectHandler"/>

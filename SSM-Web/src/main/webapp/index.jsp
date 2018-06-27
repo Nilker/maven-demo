@@ -16,7 +16,10 @@
 <h3>
     <ul>
         <li>spring MVC</li>
-        <li>swagger api管理</li>
+        <li>
+            swagger api管理
+            <a href="/swagger-ui.html">地址</a>
+        </li>
         <li>
             druid 连接池
             <a href="/druid/">地址：账号密码 admin</a>

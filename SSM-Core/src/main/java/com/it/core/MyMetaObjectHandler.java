@@ -2,7 +2,9 @@ package com.it.core;
 
 import com.baomidou.mybatisplus.mapper.MetaObjectHandler;
 import org.apache.ibatis.reflection.MetaObject;
-import org.apache.log4j.Logger;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 
 import java.util.Date;
 
@@ -12,7 +14,7 @@ import java.util.Date;
  */
 public class MyMetaObjectHandler extends MetaObjectHandler {
 
-    protected final static Logger logger = Logger.getLogger(MyMetaObjectHandler.class);
+    protected final static Logger logger = LoggerFactory.getLogger(MyMetaObjectHandler.class);
 
     @Override
     public void insertFill(MetaObject metaObject) {

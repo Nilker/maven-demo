@@ -4,6 +4,14 @@
          xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
 		  http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
          version="3.0">
+
+    <!--region 欢迎页-->
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+    <!--endregion-->
+
+
     <!--配置springmvc前端控制-->
     <servlet>
         <!--默认读取 WEB-INF/servlet-name+servlet.xml文件-->
@@ -36,7 +44,7 @@
     </context-param>
 
 
-    <!--druid 提供监控信息展示的html页面-->
+    <!--region druid 提供监控信息展示的html页面-->
     <servlet>
         <servlet-name>DruidStatView</servlet-name>
         <servlet-class>com.alibaba.druid.support.http.StatViewServlet</servlet-class>
@@ -60,5 +68,7 @@
         <servlet-name>DruidStatView</servlet-name>
         <url-pattern>/druid/*</url-pattern>
     </servlet-mapping>
-    <!--druid 提供监控信息展示的html页面-->
+    <!--endregion-->
+
+
 </web-app>

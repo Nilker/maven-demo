@@ -8,12 +8,9 @@ import com.it.service.ISysUserService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.*;
 
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.*;
 
@@ -35,10 +32,44 @@ public class SysUserController {
 
     @PostMapping()
     @ResponseBody
-    @ApiOperation(httpMethod = "Post",value = "新增系统用户")
-    public SysUser addUser(@RequestBody SysUser model){
+    @ApiOperation(httpMethod = "Post", value = "新增系统用户")
+    public SysUser addUser(@RequestBody SysUser model) {
         model.setId(null).insert();
+            sysUserService.insert(model);
         return model;
+    }
+
+
+    @GetMapping("user/{name}")
+    @ResponseBody
+    @ApiOperation(httpMethod = "Get", value = "根据用户名，获取用户信息")
+    public SysUser getUserByName(@PathVariable("name") String username) {
+        SysUser model = sysUserService.selectOne(new EntityWrapper<SysUser>().eq("name", username));
+        return model;
+    }
+
+    @GetMapping("user/{id}")
+    @ResponseBody
+    @ApiOperation(httpMethod = "Get", value = "根据用户Id，获取用户信息")
+    public SysUser getUserById(@PathVariable("id") Long id) {
+        SysUser model = sysUserService.selectById(id);
+        return model;
+    }
+
+    @GetMapping("user/{pageSize}/{pageNum}")
+    @ResponseBody
+    @ApiOperation(httpMethod = "Get", value = "分页，获取用户信息")
+    public Page<SysUser> getUserByPage(@PathVariable("pageSize") int size, @PathVariable("pageNum") int num) {
+        Page<SysUser> models = sysUserService.selectPage(new Page<>(num, size));
+        return models;
+    }
+
+    @PutMapping()
+    @ResponseBody
+    @ApiOperation(httpMethod = "Put", value = "更新用户信息")
+    public Boolean updateUser(@RequestBody SysUser model) {
+        Boolean b = model.updateById();
+        return b;
     }
 
 

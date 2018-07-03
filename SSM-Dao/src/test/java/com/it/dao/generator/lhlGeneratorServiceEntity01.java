@@ -1,5 +1,6 @@
 package com.it.dao.generator;
 
+import com.baomidou.mybatisplus.enums.IdType;
 import com.baomidou.mybatisplus.generator.AutoGenerator;
 import com.baomidou.mybatisplus.generator.config.DataSourceConfig;
 import com.baomidou.mybatisplus.generator.config.GlobalConfig;
@@ -23,12 +24,12 @@ public class lhlGeneratorServiceEntity01 {
     public void generateCode() {
         String packageName = "com.lhlmvc.demo";
         boolean serviceNameStartWithI = true;//user -> UserService, 设置成true: user -> IUserService
-        generateByTables(serviceNameStartWithI, packageName, new String[] { "sys_user" });
+        generateByTables(serviceNameStartWithI, packageName, new String[] { "sys_dept","sys_log","sys_menu","sys_role","sys_role_menu","sys_setting","sys_user","sys_user_role" });
     }
 
     private void generateByTables(boolean serviceNameStartWithI, String packageName, String... tableNames) {
         GlobalConfig config = new GlobalConfig();
-        String dbUrl = "jdbc:mysql://localhost:3306/mybatis-plus";
+        String dbUrl = "jdbc:mysql://localhost:3306/adminlte-admin";
         DataSourceConfig dataSourceConfig = new DataSourceConfig();
         dataSourceConfig.setDbType(DbType.MYSQL)
                 .setUrl(dbUrl)
@@ -47,9 +48,10 @@ public class lhlGeneratorServiceEntity01 {
         config.setActiveRecord(true)   // 不需要ActiveRecord特性的请改为false
                 .setEnableCache(true)  //XML 二级缓存
                 .setAuthor("lihl")
+                .setIdType(IdType.UUID)
                 .setBaseResultMap(true)// XML ResultMap
                 .setBaseColumnList(true)// XML columList
-                .setOutputDir("C:\\Users\\lihl\\Desktop\\tem")
+                .setOutputDir("C:\\Users\\lihl\\Desktop\\tem1")
                 .setFileOverride(true);
         if (!serviceNameStartWithI) {
             config.setServiceName("%sService");

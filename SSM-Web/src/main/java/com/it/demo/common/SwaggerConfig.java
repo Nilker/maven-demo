@@ -27,7 +27,7 @@ import static springfox.documentation.builders.PathSelectors.regex;
 @Configuration    // 配置注解，自动在本类上下文加载一些环境变量信息
 @EnableSwagger2   // 使swagger2生效
 @EnableWebMvc
-@ComponentScan(basePackages = {"com.it.demo.controller"})  //需要扫描的包路径
+@ComponentScan(basePackages = {"com.it.demo.controller", "com.it.demo.controller.system"})  //需要扫描的包路径
 public class SwaggerConfig extends WebMvcConfigurationSupport {
 
     @Bean

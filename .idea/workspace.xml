@@ -7,7 +7,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4d852e2-08c9-4ad8-a002-032357870416" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SSM_Web_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SSM_Web_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/lihl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/SSM-Core/SSM-Core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SSM-Core/SSM-Core.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SSM-Dao/SSM-Dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SSM-Dao/SSM-Dao.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SSM-Service/SSM-Service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SSM-Service/SSM-Service.iml" afterDir="false" />
@@ -81,7 +91,7 @@
       <file leaf-file-name="SwaggerConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SSM-Web/src/main/java/com/it/demo/common/SwaggerConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
+            <state relative-caret-position="306">
               <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -93,8 +103,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -287,7 +297,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -343,8 +352,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -554,7 +564,8 @@
       <workItem from="1530067210980" duration="3614000" />
       <workItem from="1530071119076" duration="18580000" />
       <workItem from="1530093612426" duration="109000" />
-      <workItem from="1530669789236" duration="31000" />
+      <workItem from="1530669789236" duration="149000" />
+      <workItem from="1530669986083" duration="238000" />
     </task>
     <task id="LOCAL-00001" summary="整合 mybatis-plus">
       <created>1530005455089</created>
@@ -593,7 +604,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51383000" />
+    <option name="totallyTimeSpent" value="51745000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -606,12 +617,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32914925" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.16174583" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.26123235" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -625,22 +635,22 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.62343097" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32914925" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.62343097" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32914925" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" x="7" y="155" width="303" height="717" id="Project" order="0" sideWeight="0.66945606" visible="true" weight="0.22464699" />
+      <window_info active="true" content_ui="combo" x="7" y="155" width="303" height="717" id="Project" order="0" sideWeight="0.66945606" visible="true" weight="0.22721438" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32991013" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32991013" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32914925" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32914925" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32914925" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1439,7 +1449,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SSM-Web/src/main/java/com/it/demo/common/SwaggerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
+        <state relative-caret-position="306">
           <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1449,8 +1459,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>

@@ -3,7 +3,7 @@
 <mapper namespace="com.it.dao.mapper.SysSettingMapper">
 
     <!-- 开启二级缓存 -->
-    <cache type="org.mybatis.caches.ehcache.LoggingEhcache"/>
+    <cache type="com.it.core.redis.RedisCache"/>
 
     <!-- 通用查询映射结果 -->
     <resultMap id="BaseResultMap" type="com.it.entity.sys.SysSetting">

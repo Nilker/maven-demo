@@ -11,7 +11,8 @@
         <property name="dataSource" ref="dataSource" />
         <!--todo 指定mapper.xml的路径-->
         <property name="mapperLocations" value="classpath:com/it/dao/xml/*.xml"/>
-
+        <!--mybatis相关配置 延迟加载 全局二级缓存-->
+        <property name="configLocation" value="classpath:xml/mybatis-config.xml" />
 
         <!-- 配置实体扫描路径，多个package可以用分号; 逗号, 分隔， 支持通配符*-->
         <!-- com.a.b.entity;com.a.c.entity;com.d.*.entity-->
